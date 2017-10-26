@@ -41,14 +41,14 @@ namespace imageUpdaterV2._0
             /*******************************************/
 
             /******** database username ****************/
-            //uid = "web";
-            // uid = "yuri_m"; //allows remote connection
+            //uid = "";
+            // uid = ""; //allows remote connection
             uid = "root";//only allows connections from local machine
 
             /************ database password ***************/
-            //password = "//GE1981//Oakland5";
-            password = "GElderMySQL";
-            //password = "GEC2017";
+            //password = "";
+            password = "";
+            //password = "";
             /*********************************************/
 
             string connectionString;
