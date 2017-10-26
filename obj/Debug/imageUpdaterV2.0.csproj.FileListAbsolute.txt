@@ -1,0 +1,14 @@
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\imageUpdaterV2.0.exe
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\imageUpdaterV2.0.pdb
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2.0.csprojResolveAssemblyReference.cache
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2._0.Properties.Resources.resources
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2.0.csproj.GenerateResource.Cache
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2.0.exe
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2.0.pdb
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2._0.imageUpdater.resources
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\GriffithElder.dll
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\GriffithElder.Utils.dll
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\MySql.Data.dll
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\GriffithElder.pdb
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\bin\Debug\GriffithElder.Utils.pdb
+F:\dev\imageUpdaterV2.0\imageUpdaterV2.0\obj\Debug\imageUpdaterV2._0.loginDialog.resources
